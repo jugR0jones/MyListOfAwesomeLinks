@@ -19,9 +19,10 @@ A list of webpages I have found incredibly useful to keep track of over the year
 * [Mock data](#mock-data)
 
 ### <a name="c-sharp">C#</a>
-* Uniy Testing
+* Unit Testing
 
 #### Unit Testing
+* [Stuart Healey](https://www.stuarthealey.com/introduction-to-unit-testing-on-net-core-with-xunit-and-the-cli/index.html)
 * [XUnit](https://xunit.github.io/)
 
 ### Data Structures
