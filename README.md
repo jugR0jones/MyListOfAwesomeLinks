@@ -14,6 +14,7 @@ A list of webpages I have found incredibly useful to keep track of over the year
 
 ## Programming
 * [C#](#c-sharp)
+* [CSS](#css)
 * Data Structures
 * Markdown
 * [Mock data](#mock-data)
@@ -24,6 +25,15 @@ A list of webpages I have found incredibly useful to keep track of over the year
 #### Unit Testing
 * [Stuart Healey](https://www.stuarthealey.com/introduction-to-unit-testing-on-net-core-with-xunit-and-the-cli/index.html)
 * [XUnit](https://xunit.github.io/)
+
+### CSS
+* [Ribbons](#css-ribbons)
+
+### <a name="css-ribbons">CSS Ribbons</a>
+* [CSS Ribbon Builder](https://dribbble.com/shots/439245-Pure-CSS-Ribbon-Builder)
+* [Pure CSS Ribbon](http://ginva.com/2016/08/pure-css-ribbon/)
+* [2- Beautiful Free Ribbon Elements](http://www.webdesigndev.com/20-beautiful-free-ribbon-elements-for-your-website/)
+* [10 Free CSS Social Media Snippers](http://designify.me/web-design/10-free-css-social-media-snippets/)
 
 ### Data Structures
 * Sorting Algorithms
