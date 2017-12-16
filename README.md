@@ -2,6 +2,7 @@
 A list of webpages I have found incredibly useful to keep track of over the years.
 * [Linux](#linux)
 * [Programming](#programming)
+* [Web Comics](#web-comics)
 
 ## Linux
 * [Development](#linux-development)
@@ -49,3 +50,11 @@ A list of webpages I have found incredibly useful to keep track of over the year
 ### Mock Data
 * [Generate Data](https://www.generatedata.com/)
 * [Mockaroo](http://www.mockaroo.com/)
+
+## <a name="web-comics">Web Comics</a>
+* [Wondermark](http://wondermark.com/)
+* [xkcd](https://www.xkcd.com/)
+* [PHD Comics](http://phdcomics.com/comics.php)
+* [Focus Shift](http://www.osnews.com/comics)
+* [UserFriendly](http://www.userfriendly.org/static/)
+
